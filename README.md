@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.google.com.eg/search?q=Shymaa+Saeed">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Automate%20Everything;Build%20Smart%20Infrastructure;Keep%20Learning%20Everyday✨&font=Bold%20Code&center=true&color=00C3FF&pause=2000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Automate%20Everything;Build%20Smart%20Infrastructure;Keep%20Learning%20Everyday&font=Bold%20Code&center=true&color=00C3FF&pause=2000">
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/your-cv-link">
+  <a href="https://drive.google.com/https://docs.google.com/document/d/1cH4sGlK7vgWr4TtHx2jZxJ9zegrEhE6c/edit?usp=sharing&ouid=116351461515151727399&rtpof=true&sd=true">
     <img src="https://img.shields.io/badge/My%20CV-004D40?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/>
   </a> &nbsp;
   <a href="https://shymaasaeed.github.io/Portfolio">
@@ -34,13 +34,13 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="mailto:yourmail@example.com">
+  <a href="mailto:shymaa.saeed.esawy@gmail.com
     <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="45"/>
   </a> &nbsp;
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="45"/>
-  </a> &nbsp;
-  <a href="https://wa.me/your-number">
+  <a href="https://www.linkedin.com/in/shymaa-saeed1
+
+">
+   
     <img src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" height="45"/>
   </a> &nbsp;
   <a href="https://github.com/shymaasaeed">
