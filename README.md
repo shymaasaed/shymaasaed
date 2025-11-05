@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=500&color=A020F0&center=true&vCenter=true&width=600&lines=💜+Sheen+in+Ops+!+💜" alt="Sheen in Ops Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=500&color=A020F0&center=true&vCenter=true&width=600&lines=Sheen+in+Ops+!" alt="Sheen in Ops Animation" />
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@
 </p>
 
 ---
-![Snake Animation](https://github.com/shymaasaeed/shymaasaeed/blob/output/github-contribution-grid-snake-dark.svg)
+![](https://github.com/shymaasaeed/shymaasaeed/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 <p align="center">
