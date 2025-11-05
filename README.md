@@ -56,7 +56,9 @@
 </p>
 
 ---
+![Snake Animation](https://github.com/shymaasaeed/shymaasaeed/blob/output/github-contribution-grid-snake-dark.svg)
 
+---
 <p align="center">
   <i>✨ Automate • Scale • Deliver — My DevOps Journey Continues ✨</i>
 </p>
