@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=500&color=A020F0&center=true&vCenter=true&width=600&lines=💜+Sheen+in+Ops+!+💜" alt="Sheen in Ops Animation" />
+</p>
+
+<p align="center">
   <a href="https://gh-most-followed.pages.dev/egypt">
     <img src="https://img.shields.io/badge/DevOps%20Explorer%20🇪🇬-1E1E2E?style=flat-square&logo=github&logoColor=00C3FF" style="height:32px; object-fit:contain;"/>
   </a>
@@ -20,9 +24,6 @@
 <p align="center">
   <a href="https://docs.google.com/document/d/1cH4sGlK7vgWr4TtHx2jZxJ9zegrEhE6c/edit?usp=sharing">
     <img src="https://img.shields.io/badge/My%20CV-00796B?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/>
-  </a> &nbsp;
-  <a href="https://shymaasaeed.github.io/Portfolio">
-    <img src="https://img.shields.io/badge/My%20Portfolio-1A237E?style=flat-square&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/>
   </a>
 </p>
 
@@ -50,15 +51,9 @@
 
 ---
 
-### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shymaasaeed&layout=compact&langs_count=6&theme=tokyonight" height="150"/> &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=shymaasaeed&theme=tokyonight" height="150"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&center=true&vCenter=true&color=00E5FF&width=600&lines=🚀+Continuously+Learning+and+Building+Better+Systems;⚙️+Embracing+Automation+and+Cloud+Innovation;💡+Sharing+Knowledge+and+Growing+Together" alt="Motivational Typing Animation"/>
 </p>
-
----
-
-![Snake Animation](https://github.com/shymaasaeed/shymaasaeed/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
