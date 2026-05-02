@@ -79,7 +79,7 @@ DevOps engineer building secure, scalable deployment environments on AWS and Red
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shymaa.saeed.esawy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shymaa-saeed1/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shymaasaeed)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shymaasaed)
 [![CV](https://img.shields.io/badge/CV-181717?style=flat-square&logo=googledrive&logoColor=orange)](https://drive.google.com/file/d/11b1Qv8iYhvA6OPwcDpNHCcNKX3E9n7ri/view?usp=sharing)
 
 ---
