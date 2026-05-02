@@ -1,64 +1,116 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=500&color=A020F0&center=true&vCenter=true&width=600&lines=Sheen+in+Ops+!" alt="Sheen in Ops Animation" />
-</p>
+<h1 align="center">Shymaa Esawy</h1>
+<h3 align="center">DevOps & Cloud Engineer</h3>
+<p align="center">CI/CD &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Red Hat &nbsp;·&nbsp; Terraform &nbsp;·&nbsp; GitOps &nbsp;·&nbsp; Observability</p>
 
 <p align="center">
-  <a href="https://gh-most-followed.pages.dev/egypt">
-    <img src="https://img.shields.io/badge/DevOps%20Explorer%20🇪🇬-1E1E2E?style=flat-square&logo=github&logoColor=00C3FF" style="height:32px; object-fit:contain;"/>
-  </a>
-</p>
-
-<h1 align="center">Hi, I'm Shymaa Saeed ☁️</h1>
-
-<h2 align="center">DevOps Enthusiast | Cloud & Infrastructure Learner</h2>
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Automate+Everything;Build+Smart+Infrastructure;Keep+Learning+Everyday&font=Fira%20Code&center=true&color=00E5FF&pause=2000">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shymaasaeed&style=flat&color=00BFBF" style="height:30px; object-fit:contain;"/>
-</p>
-
-<p align="center">
-  <a href="https://docs.google.com/document/d/1cH4sGlK7vgWr4TtHx2jZxJ9zegrEhE6c/edit?usp=sharing">
-    <img src="https://img.shields.io/badge/My%20CV-00796B?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/>
-  </a>
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Red%20Hat%20Certified-EE0000?style=flat-square&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=shymaasaeed&style=flat-square&color=5F5E5A"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="mailto:shymaa.saeed.esawy@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" height="45"/>
-  </a> &nbsp;
-  <a href="https://www.linkedin.com/in/shymaa-saeed1/">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="45"/>
-  </a> &nbsp;
-  <a href="https://github.com/shymaasaeed">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" height="45"/>
-  </a>
+DevOps engineer building secure, scalable deployment environments on AWS and Red Hat platforms. Focused on automating the full delivery lifecycle — from CI/CD pipeline design to Kubernetes orchestration and GitOps-based continuous deployment. Passionate about infrastructure as code, observability, and systems that just work.
+
+---
+
+## Featured Projects
+
+### Production DevOps Pipeline — Containerized App on AWS EKS
+Designed a production-ready GitOps workflow to automate the full delivery lifecycle of a containerized application on Kubernetes — from infrastructure provisioning to live monitoring.
+
+```
+Git push → Jenkins build → Docker image → ECR push → ArgoCD sync → EKS deploy
+```
+
+**Stack:** Jenkins · AWS EKS · ArgoCD · Helm · Terraform · Docker · Prometheus · Grafana
+
+---
+
+### CI/CD & GitOps Pipeline — Java Application
+Automated the full delivery lifecycle of a Java app with integrated SonarQube code quality gates and security checks before every containerized Kubernetes release.
+
+**Stack:** Jenkins · Maven · SonarQube · Docker · ArgoCD · Kubernetes
+
+---
+
+### Cloud IoT Safety Monitoring System — Graduation Project (Grade: A+)
+Cloud-based platform collecting real-time IoT sensor data and IP camera streams, processed with AI to detect safety events and surface alerts through a live web dashboard.
+
+**Stack:** AWS · IoT · AI Analysis · Live Streaming · Web Platform
+
+---
+
+## Technical Stack
+
+**Cloud & Infrastructure**
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,terraform,ansible,redhat" />
+</p>
+
+**CI/CD & GitOps**
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jenkins,githubactions,argocd,helm" />
+</p>
+
+**Containers & Orchestration**
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,openshift" />
+</p>
+
+**Observability**
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana,elasticsearch" />
+</p>
+
+**Scripting & OS**
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=bash,python,linux,ubuntu" />
+</p>
+
+**Version Control**
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github" />
 </p>
 
 ---
 
-### 🛠️ Top Skills & Tools
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,docker,kubernetes,terraform,jenkins,aws,ansible,githubactions,prometheus,grafana,bash,python&perline=6" style="height:120px;"/>
-</p>
+## Experience
+
+| Period | Role | Organisation |
+|---|---|---|
+| 09/2025 – 02/2026 | DevOps Trainee | National Telecommunication Institute |
+| 05/2025 – 07/2025 | Cloud Trainee | National Telecommunication Institute |
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&center=true&vCenter=true&color=00E5FF&width=600&lines=🚀+Continuously+Learning+and+Building+Better+Systems;⚙️+Embracing+Automation+and+Cloud+Innovation;💡+Sharing+Knowledge+and+Growing+Together" alt="Motivational Typing Animation"/>
-</p>
+## Certifications
+
+**Amazon Web Services**
+- AWS Certified Cloud Practitioner — national certification
+- AWS Academy Graduate — Cloud Architecting *(Jul 2025)*
+- AWS Academy Graduate — Cloud Foundations *(Jul 2025)*
+
+**Red Hat**
+- Red Hat Enterprise Linux Automation with Ansible — RH294 v9.0 *(Jan 2026)*
+- Red Hat OpenShift Administration I: Operating a Production Cluster — DO180 v4.18 *(Jan 2026)*
+- Red Hat System Administration II — RH134 v9.3 *(Nov 2025)*
+- Red Hat System Administration I — RH124 v9.3 *(Oct 2025)*
 
 ---
+
+## Connect
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shymaa.saeed.esawy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shymaa-saeed1/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shymaasaeed)
+[![CV](https://img.shields.io/badge/CV-181717?style=flat-square&logo=googledrive&logoColor=orange)](https://drive.google.com/file/d/11b1Qv8iYhvA6OPwcDpNHCcNKX3E9n7ri/view?usp=sharing)
+
+---
+
 ![](https://github.com/shymaasaeed/shymaasaeed/blob/output/github-contribution-grid-snake-dark.svg)
 
----
-<p align="center">
-  <i>✨ Automate • Scale • Deliver — My DevOps Journey Continues ✨</i>
-</p>
+<p align="center"><i>Build · Automate · Deliver</i></p>
