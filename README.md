@@ -17,33 +17,6 @@ DevOps engineer building secure, scalable deployment environments on AWS and Red
 
 ---
 
-## Featured Projects
-
-### Production DevOps Pipeline — Containerized App on AWS EKS
-Designed a production-ready GitOps workflow to automate the full delivery lifecycle of a containerized application on Kubernetes — from infrastructure provisioning to live monitoring.
-
-```
-Git push → Jenkins build → Docker image → ECR push → ArgoCD sync → EKS deploy
-```
-
-**Stack:** Jenkins · AWS EKS · ArgoCD · Helm · Terraform · Docker · Prometheus · Grafana
-
----
-
-### CI/CD & GitOps Pipeline — Java Application
-Automated the full delivery lifecycle of a Java app with integrated SonarQube code quality gates and security checks before every containerized Kubernetes release.
-
-**Stack:** Jenkins · Maven · SonarQube · Docker · ArgoCD · Kubernetes
-
----
-
-### Cloud IoT Safety Monitoring System — Graduation Project (Grade: A+)
-Cloud-based platform collecting real-time IoT sensor data and IP camera streams, processed with AI to detect safety events and surface alerts through a live web dashboard.
-
-**Stack:** AWS · IoT · AI Analysis · Live Streaming · Web Platform
-
----
-
 ## Technical Stack
 
 **Cloud & Infrastructure**
